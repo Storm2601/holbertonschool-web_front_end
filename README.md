@@ -1,1 +1,1 @@
-# holbertonschool-web_front_end
+# Project Holberton School
